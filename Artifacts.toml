@@ -1,0 +1,6 @@
+[simulations_data]
+git-tree-sha1 = "4452ab67bf9c5b88cd2721bf71aee4e5c91e3c21"
+
+    [[simulations_data.download]]
+    sha256 = "e01804c2618c5e93728667d1fe90f57e061ed74cc4fc5d4dea69a00f11209a0e"
+    url = "https://gist.github.com/marcobonici/86447606c38118b4c40910cdaffd36e8/raw/4452ab67bf9c5b88cd2721bf71aee4e5c91e3c21.tar.gz"
